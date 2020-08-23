@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La guerra en ciernes"
+title:  "Xbox vs PS5"
 categories: jekyll update
 img: xboxvsps5.jpg
 categories: one
