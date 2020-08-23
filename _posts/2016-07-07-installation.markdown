@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Installation"
+title:  "La guerra en ciernes"
 categories: jekyll update
 img: xboxvsps5.jpg
 categories: one
